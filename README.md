@@ -2,7 +2,7 @@
 
 ## Team
 * Madel Asistio - Software Development Lead
-* Robert Chen - Quality Assurance Lead
+* Yunbo Chen - Quality Assurance Lead
 * Chris Crutchfield - Project Manager
 * Raghav Kansal - Database Specialist
 * Vivian Pham - Business Analyst
